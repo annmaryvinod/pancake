@@ -1,5 +1,5 @@
 import { connect } from "mongoose";
-import { disconnect } from "process";
+import { disconnect } from "mongoose";
 
 export default async function connectToDatabase(){
     try{
