@@ -12,3 +12,5 @@ userRoutes.post("/login",validate(loginValidator),userLogin);
 
 
 export default userRoutes;
+
+//commit checks
